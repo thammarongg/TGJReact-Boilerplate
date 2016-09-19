@@ -1,0 +1,22 @@
+{
+  "name": "TGJReact-Boilerplate",
+  "description": "lv.0 develop",
+  "author": "ThammarongG",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thammarongg/TGJReact-Boilerplate"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-bootstrap": "^0.30.3",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "react-router-bootstrap": "^0.23.1",
+    "react-router-redux": "^4.0.5",
+    "redux": "^3.6.0",
+    "redux-form": "^6.0.5"
+  }
+}
